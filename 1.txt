@@ -2,3 +2,4 @@ kfjdbfdkjnvfdkjvnkjdf
 
 text 
 new text from MASTER
+new text: abc
